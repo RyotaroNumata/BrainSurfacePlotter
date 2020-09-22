@@ -4,6 +4,9 @@
 
 BrainSurfacePlotter is a simple visualization tool for brain responses.
 
+[!surface plot](https://github.com/RyotaroNumata/BrainSurfacePlotter/blob/master/output/output.png)
+
+
 ## Requirements
 
 - python 3.x

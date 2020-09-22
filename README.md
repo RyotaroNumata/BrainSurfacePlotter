@@ -11,11 +11,11 @@ BrainSurfacePlotter is a simple visualization tool for brain responses.
 - Pillow > 7.2.0
 
 ## How to use
+
 You can easy to use surface plotter as bellow.
 
 1. Visualization Test \
     After runing this test, will create output directory on same directory.
-
     ```
     python test.py
     ```

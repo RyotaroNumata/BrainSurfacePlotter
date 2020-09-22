@@ -28,7 +28,7 @@
     },
     "plot_setting":{
             "marker_size": 500,
-            "marker_shape": 8,
+            "marker_shape": "8",
             "scale": [0, 1.0],
             "colormap_type": "jet",
             "font_size": 14,

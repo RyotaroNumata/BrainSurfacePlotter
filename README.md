@@ -4,8 +4,7 @@
 
 BrainSurfacePlotter is a simple visualization tool for brain responses.
 
-[!surface plot](https://github.com/RyotaroNumata/BrainSurfacePlotter/blob/master/output/output.png)
-
+<img src="https://github.com/RyotaroNumata/BrainSurfacePlotter/blob/master/output/output.png" width=50%>
 
 ## Requirements
 
